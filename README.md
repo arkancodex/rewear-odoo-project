@@ -1,2 +1,4 @@
-# rewear-odoo-project
-Hackathon project for clothing exchange 
+# Problem Statement: ReWear – Community Clothing Exchange
+# Team name: TEAM SDR
+Email : arkanahmedshaikh@gmail.com
+
